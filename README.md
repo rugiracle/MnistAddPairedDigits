@@ -1,4 +1,4 @@
-This is a sample program that adds two digit images, it is written in Putorch(Python) <br>
+This is a sample program that adds two digit images, it is written in Pytorch(Python) <br>
 1. Generate new dataset from MNIST digits dataset by randomly pairing two digits. 
 The paired digits has their sum as label
 , i.e., we have now [0~18] numbers as labels for the new dataset<br>
